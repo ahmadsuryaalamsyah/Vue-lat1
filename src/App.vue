@@ -20,7 +20,7 @@ import ImageFetcher from './components/ImageFetcher.vue';
     </div>
     <div id="batas"></div>
     <div id="box">
-      <h2 id="title-box">Fetch Image</h2>
+      <h2 id="title-box">Fetch Image Carousel</h2>
       <ImageFetcher />
     </div>
   </div>
